@@ -1,0 +1,38 @@
+{
+	"COEN502":{
+		"title": "SOFTWARE ENGINEERING",
+		"lecturer_name": "Engr Adekale",
+		"gender": "Male"
+		},
+	"COEN510":{
+		"title": "NETWORK SECURITY AND CRYPTOGRAPHY",
+		"lecturer_name": "Prof Adewale Adedokun",
+		"gender": "Male"
+		},
+	"COEN512":{
+		"title":"ENGINEERING DESIGN AND SUSTAINABILITY STUDIES",
+		"lecturer_name":"Prof M.B Mu'azu",
+		"gender":"Male"
+	},
+	"COEN513":{
+		"title": "MECHATRONICS",
+		"lecturer_name": "Dr. Zarahadeen",
+		"gender": "Male"
+		},
+	"COEN514":{
+		"title": "Robotics and Automation",
+		"lecturer_name": "Dr. O.O Ajayi",
+		"gender": "Male"
+		},
+	"COEN504":{
+		"title": "Digital Systems Design",
+		"lecturer_name": "Dr. S. Habeeb",
+		"gender": "Male"
+		},
+	"COEN508":{
+		"title": "Image Processing and Computer Vision",
+		"lecturer_name": "Dr. Yusuf Ibrahim",
+		"gender": "Male"
+		}
+	
+}

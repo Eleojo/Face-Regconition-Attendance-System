@@ -1,0 +1,93 @@
+{
+	"U17CO2003":{
+		"name": "Eleojo Adegbe",
+		"reg_no": "U17CO2003",
+		"gender": "Male",
+		"major": "B.Eng Comp"
+		},
+	"U17CO2019":{
+		"name": "Saad Yakubu",
+		"reg_no": "U17CO2019",
+		"gender": "Male",
+		"major": "B.Eng Comp"
+		},
+	"U17CO2007":{
+		"name":"Isaac Hyelingtil",
+		"reg_no":"U17CO2007",
+		"gender":"Male",
+		"major":"B.Eng Comp"
+	},
+	"U16CO1044":{
+		"name": "Samuel Obiniyi",
+		"reg_no": "U16CO1044",
+		"gender": "Male",
+		"major": "B.Eng Comp"
+		},
+	"U17CM2002":{
+		"name": "Stanley Obi",
+		"reg_no": "U17CM2002",
+		"gender": "Male",
+		"major": "B.Eng Comm"
+		},
+	"963852":{
+		"name": "Elon Musk",
+		"reg_no": "963852",
+		"gender": "Male",
+		"major":"Entreprenuer"
+		},
+	"U16CO1012":{
+		"name":"Sadiq Sani Jauro",
+		"reg_no":"U16CO1012",
+		"gender":"Male",
+		"major":"B.Eng Comp"
+	},
+	"U17CO2016":{
+		"name":"Nuhu Surajo Umar",
+		"reg_no":"U17CO2016",
+		"gender":"Male",
+		"major":"B.Eng Comp"
+	},
+	"U16PT1103":{
+		"name":"Akinshe Toyosi Rebecca",
+		"reg_no":"U17CO2016",
+		"gender":"Male",
+		"major":"B.Eng Comp"
+	},
+	"U17CO2010":{
+		"name":"Yusuf Adeshina Adeyemi",
+		"reg_no":"U17CO2010",
+		"gender":"Male",
+		"major":"B.Eng Comp"
+	},
+	"U17CO1046":{
+		"name":"Muawiya Abubakar",
+		"reg_no":"U17CO1046",
+		"gender":"Male",
+		"major":"B.Eng Comp"
+	},
+	"U16CO1007":{
+		"name":"Yusuf Tukur",
+		"reg_no":"U16CO1007",
+		"gender":"Male",
+		"major":"B.Eng Comp"
+	},
+	"U16CO1034":{
+		"name":"Yahaya Okudu",
+		"reg_no":"U16CO1034",
+		"gender":"Male",
+		"major":"B.Eng Comp"
+	},
+	"U17CM2012":{
+		"name":"Joel Danjuma",
+		"reg_no":"U17CM2012",
+		"gender":"Male",
+		"major":"B.Eng Comm"
+	},
+	"U16CO1046":{
+		"name":"Temitayo Awodiran",
+		"reg_no":"U16CO1046",
+		"gender":"Female",
+		"major":"B.Eng Comp"
+	}
+	
+}
